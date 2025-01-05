@@ -1,0 +1,10 @@
+1) open vscode from the specific project folder
+2) create a virtual environment : python -m venv myenv
+	then activate the venv : myenv\Scripts\activate
+3) add it to git
+	git init	git add .	git commit		git push
+4) make files setup.py and requirements.txt
+	setup.py helps to build the entire ML application as a package 
+	and can also deploy in pypi
+5) write the code in setup
+6) create a src folder and init.py file 
