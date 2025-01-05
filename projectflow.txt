@@ -8,3 +8,11 @@
 	and can also deploy in pypi
 5) write the code in setup
 6) create a src folder and init.py file 
+
+7) Create components in src and init inside that, data_ingestion, data transformation, model trainer
+	#data ingestion meaning reading the dataset from diff databases
+	Create pipeline folder into src (training and prediction)
+
+	INIT folders can be called it acts as a module itself
+
+8) create logger and exception files inside src
