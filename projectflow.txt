@@ -15,4 +15,5 @@
 
 	INIT folders can be called it acts as a module itself
 
-8) create logger and exception files inside src
+8) create logger and exception files & utils inside src
+	
